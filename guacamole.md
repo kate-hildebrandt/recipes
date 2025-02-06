@@ -1,4 +1,4 @@
-# Guacamole
+# Basic Guacamole
 ## Ingredients
 avocado
 lemon
